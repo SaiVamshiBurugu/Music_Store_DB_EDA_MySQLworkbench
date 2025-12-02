@@ -96,5 +96,3 @@ music-store-analysis/
 ---
 
 > _“Data turns music into insights — and insights into strategy.”_ 🎶
-
-```
